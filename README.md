@@ -10,4 +10,4 @@ For three years my father called the dog by my name. The dog has been dead since
 
 MAKEFUN_OUTPUT_DIR=out python3 main.py
 
-MIT licensed; see [LICENSE](LICENSE).
+Released under the MIT License; see [LICENSE](LICENSE).
